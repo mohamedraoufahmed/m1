@@ -181,6 +181,7 @@ body {
   }
  @media (max-width: 580px) {
  body{
+       background-color: black;
   width: 97%;
   overflow-y:auto;
  overflow-x:  hidden;
